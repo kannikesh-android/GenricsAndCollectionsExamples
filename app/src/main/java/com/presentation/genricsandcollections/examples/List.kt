@@ -26,10 +26,7 @@ fun main() {
     bookLinkedList.push(book1)
     bookLinkedList.push(book2)
 
-//    println(listOf(1, 2, 3, 4, 5).reduce { acc, i ->
-//        println(i)
-//        acc + i
-//    })
+
 
     println("Books in LinkedList: ")
     printDataStructure(bookLinkedList)
